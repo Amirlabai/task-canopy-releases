@@ -1,7 +1,7 @@
 {
-  "version": "1.10.0",
-  "published_at": "2026-06-19T16:30:00Z",
-  "installer_url": "https://github.com/Amirlabai/task-canopy-releases/releases/download/v1.10.0/TaskCanopy_Setup_1.10.0.exe",
-  "release_page": "https://github.com/Amirlabai/task-canopy-releases/releases/tag/v1.10.0",
-  "notes": "# [1.10.0](https://github.com/Amirlabai/task-canopy/compare/v1.9.0...v1.10.0) (2026-06-19)\n\n\n### Features\n\n* **release:** wire Hebrew notes into latest.json ([5d56937](https://github.com/Amirlabai/task-canopy/commit/5d569378779013840c5ed38fab3feec22567a353))\n* **tasks:** optional due time and minute reminders ([597f9e9](https://github.com/Amirlabai/task-canopy/commit/597f9e9fbae462f2763b112f3b57d9ef2073fa64))"
+  "version": "1.10.2",
+  "published_at": "2026-06-19T16:56:27Z",
+  "installer_url": "https://github.com/Amirlabai/task-canopy-releases/releases/download/v1.10.2/TaskCanopy_Setup_1.10.2.exe",
+  "release_page": "https://github.com/Amirlabai/task-canopy-releases/releases/tag/v1.10.2",
+  "notes": "- **הערות שחרור בעברית** — GitHub, CHANGELOG וחלון העדכון מציגים רשימת שינויים למשתמש, לא הודעות git אוטומטיות."
 }
