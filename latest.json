@@ -1,7 +1,7 @@
 {
-  "version": "1.10.4",
-  "published_at": "2026-06-19T17:25:24Z",
-  "installer_url": "https://github.com/Amirlabai/task-canopy-releases/releases/download/v1.10.4/TaskCanopy_Setup_1.10.4.exe",
-  "release_page": "https://github.com/Amirlabai/task-canopy-releases/releases/tag/v1.10.4",
-  "notes": "- **הערות שחרור בעברית** — GitHub, CHANGELOG וחלון העדכון מציגים רשימת שינויים למשתמש, לא הודעות git אוטומטיות."
+  "version": "1.10.5",
+  "published_at": "2026-06-19T17:36:47Z",
+  "installer_url": "https://github.com/Amirlabai/task-canopy-releases/releases/download/v1.10.5/TaskCanopy_Setup_1.10.5.exe",
+  "release_page": "https://github.com/Amirlabai/task-canopy-releases/releases/tag/v1.10.5",
+  "notes": "- **כותרת** — תיאור קצר למשתמש"
 }
